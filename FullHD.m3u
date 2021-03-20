@@ -1,7 +1,9 @@
-#EXTM3U 
+#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTINF:-1 tvg-id="FOX Sports 3 HD MX" group-title="Deportes" tvg-name="FOX Sports 3 HD MX", FOX Sports 3 HD MX 
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=9538
 
-#EXTINF:-1 tvg-id="FOX Deportes HD" group-title="Deportes" tvg-name="FOX Deportes HD", FOX Deportes HD 
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=36396
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1 GEO
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
