@@ -1,7 +1,4 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="FOX Sports 3 HD MX" group-title="Deportes1" tvg-name="FOX Sports 3 HD MX", FOX Sports 3 HD MX 
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=9538
-
-#EXTINF:-1 tvg-id="FOX Deportes HD" group-title="Deportes2" tvg-name="FOX Deportes HD", FOX Deportes HD 
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=36396
+#EXTINF:-1 tvg-id="FOX Sports 3 HD MX" group-title="Deportes1" tvg-name="FOX Sports 3 HD MX", FOX Sports 3 HD MX https://blackghost.live/316/tvx.php?opcion=xtv27&c=9538
+#EXTINF:-1 tvg-id="FOX Deportes HD" group-title="Deportes2" tvg-name="FOX Deportes HD", FOX Deportes HD https://blackghost.live/316/tvx.php?opcion=xtv27&c=36396
