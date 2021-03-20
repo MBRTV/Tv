@@ -1,16 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="FOX Sports 3 HD MX" group-title="Deportes" tvg-name="FOX Sports 3 HD MX", FOX Sports 3 HD MX  
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=9538
-#EXTINF:-1 tvg-id="FOX Deportes HD" group-title="Deportes" tvg-name="FOX Deportes HD", FOX Deportes HD  
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=36396
 #EXTINF:-1 tvg-id="History HD" group-title="Cultura" tvg-name="History HD", History HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=53074
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Cultura" tvg-name="Discovery HD", Discovery HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=9520
 #EXTINF:-1 tvg-id="Discovery Turbo HD" group-title="Cultura" tvg-name="Discovery Turbo HD", Discovery Turbo HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=54283
-#EXTINF:-1 tvg-id="Discovery Science" group-title="Cultura" tvg-name="Discovery Science", Discovery Science  
+#EXTINF:-1 tvg-id="Discovery Science HD" group-title="Cultura" tvg-name="Discovery Science HD", Discovery Science HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=36466
 #EXTINF:-1 tvg-id="Discovery World HD" group-title="Cultura" tvg-name="Discovery World HD", Discovery World HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=9516
@@ -20,7 +16,43 @@ https://blackghost.live/316/tvx.php?opcion=xtv27&c=9521
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=36458
 #EXTINF:-1 tvg-id="Discovery Theater HD" group-title="Cultura" tvg-name="Discovery Theater HD", Discovery Theater HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=53073
-#EXTINF:-1 tvg-id="Discovery Familia" group-title="Cultura" tvg-name="Discovery Familia", Discovery Familia  
+#EXTINF:-1 tvg-id="Discovery Familia HD" group-title="Cultura" tvg-name="Discovery Familia HD", Discovery Familia HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=10769
+#EXTINF:-1 tvg-id="Animal Planet HD" group-title="Cultura" tvg-name="Animal Planet HD", Animal Planet HD  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=19507
 #EXTINF:-1 tvg-id="HBO Signature" group-title="Peliculas" tvg-name="HBO Signature", HBO Signature  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=47606
+#EXTINF:-1 tvg-id="Golden Plus HD" group-title="Peliculas" tvg-name="Golden Plus HD", Golden Plus HD  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9496
+#EXTINF:-1 tvg-id="Universal TV HD" group-title="Peliculas" tvg-name="Universal TV HD", Universal TV HD  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9507
+#EXTINF:-1 tvg-id="TNT HD" group-title="Peliculas" tvg-name="TNT HD", TNT HD  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9495
+#EXTINF:-1 tvg-id="Sony HD" group-title="Peliculas" tvg-name="Sony HD", Sony HD  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9543
+#EXTINF:-1 tvg-id="SyFy HD" group-title="Peliculas" tvg-name="SyFy HD", SyFy HD  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9559
+#EXTINF:-1 tvg-id="Ultra Film" group-title="Peliculas" tvg-name="Ultra Film", Ultra Film  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56697
+#EXTINF:-1 tvg-id="FOX Sports 1 HD AR" group-title="Deportes" tvg-name="FOX Sports 1 HD AR", FOX Sports 1 HD AR  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21221
+#EXTINF:-1 tvg-id="FOX Sports 2 HD AR" group-title="Deportes" tvg-name="FOX Sports 2 HD AR", FOX Sports 2 HD AR  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21231
+#EXTINF:-1 tvg-id="FOX Sports 3 HD AR" group-title="Deportes" tvg-name="FOX Sports 3 HD AR", FOX Sports 3 HD AR  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21232
+#EXTINF:-1 tvg-id="FOX Deportes HD" group-title="Deportes" tvg-name="FOX Deportes HD", FOX Deportes HD  
+https://blackghost.live/316/tvx.php?opcion=xtv27&c=36396
+#EXTINF:-1 tvg-id="Directv Sports 1" group-title="Deportes" tvg-name="Directv Sports 1", Directv Sports 1  
+https://blackaddon.com/316/tvx.php?opcion=xtv27&c=36486
+#EXTINF:-1 tvg-id="Cinema Disney Pixar" group-title="24/07" tvg-name="Cinema Disney Pixar", Cinema Disney Pixar  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56444
+#EXTINF:-1 tvg-id="Cinema Ficción" group-title="24/07" tvg-name="Cinema Ficción", Cinema Ficción  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56430
+#EXTINF:-1 tvg-id="Cinema DC Universe" group-title="24/07" tvg-name="Cinema DC Universe", Cinema DC Universe  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56441
+#EXTINF:-1 tvg-id="Cinema DreamWorks" group-title="24/07" tvg-name="Cinema DreamWorks", Cinema DreamWorks  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56443
+#EXTINF:-1 tvg-id="Cinema Familia" group-title="24/07" tvg-name="Cinema Familia", Cinema Familia  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56434
+#EXTINF:-1 tvg-id="Cinema Marvel Estudios" group-title="24/07" tvg-name="Cinema Marvel Estudios", Cinema Marvel Estudios  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56436
