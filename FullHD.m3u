@@ -24,6 +24,8 @@ https://blackghost.live/316/tvx.php?opcion=xtv27&c=9516
 https://blackaddon.com/play/teleclub-316.php?c=la-ae-hd&f=.m3u8
 #EXTINF:-1 tvg-id="E-Entertainment" group-title="Variedades" tvg-name="E-Entertainment", E-Entertainment  
 https://blackaddon.com/play/teleclub-316.php?c=la-e-entertainment-hd&f=.m3u8
+#EXTINF:-1 tvg-id="Fail Army" group-title="Variedades" tvg-name="Fail Army", Fail Army  
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-id="HBO 2 HD" group-title="Peliculas" tvg-name="HBO 2 HD", HBO 2 HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9875
 #EXTINF:-1 tvg-id="HBO Extreme HD" group-title="Peliculas" tvg-name="HBO Extreme HD", HBO Extreme HD  
@@ -65,8 +67,8 @@ https://blackaddon.com/316/tvx.php?opcion=xtv27&c=53047
 #EXTINF:-1 tvg-id="Cinema Disney Pixar" group-title="Peliculas" tvg-name="Cinema Disney Pixar", Cinema Disney Pixar  
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56444
 #EXTINF:-1 tvg-id="Cinema Ciencia Ficción" group-title="Peliculas" tvg-name="Cinema Ciencia Ficción", Cinema Ciencia Ficción  
-https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56430
-#EXTINF:-1 tvg-id="Cinema DC Universe" group-title="Peliculas" tvg-name="Cinema DC Universe", Cinema DC Universe  
+https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56441
+#EXTINF:-1 tvg-id="Cinema DreamWorks" group-title="Peliculas" tvg-name="Cinema DreamWorks", Cinema DreamWorks  
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56443
 #EXTINF:-1 tvg-id="Cinema Familia" group-title="Peliculas" tvg-name="Cinema Familia", Cinema Familia  
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56434
@@ -102,6 +104,10 @@ https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56425
 https://blackaddon.com/play/owly-318.php?c=396|User-Agent=nGfrjEYBKPb8chLQEZNDYwvhT7BinaAL2LJ5Ky4vJqk5bgu5RPg6mUjAkXVYB81Bdt3W385c8ipGq43N1ELS7fCXekz9ynaALPcBuemFniBNmdyLnH7iFGBdNYEW5XMAx6DNEJei2GviuKBnnxUYx8creamviAScXXE4pfxcaWxiXaEJQNiQ4jVPVXSwpPBxmanG8ZL2Y1BKPt3W385c8ipGq43NEpEx
 #EXTINF:-1 tvg-id="ESPN 3 HD" group-title="Deportes" tvg-name="ESPN 3 HD", ESPN 3 HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21220
+#EXTINF:-1 tvg-id="ESPN HD" group-title="Deportes" tvg-name="ESPN HD", ESPN HD  
+https://blackaddon.com/play/cinedarktv-318.php?c=131|user-agent=hi
+#EXTINF:-1 tvg-id="ESPN 2 HD" group-title="Deportes" tvg-name="ESPN 2 HD", ESPN 2 HD  
+https://blackaddon.com/play/cinedarktv-318.php?c=132|user-agent=hi
 #EXTINF:-1 tvg-id="FOX Sports 1 HD AR" group-title="Deportes" tvg-name="FOX Sports 1 HD AR", FOX Sports 1 HD AR  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21221
 #EXTINF:-1 tvg-id="FOX Sports 2 HD AR" group-title="Deportes" tvg-name="FOX Sports 2 HD AR", FOX Sports 2 HD AR  
@@ -120,6 +126,8 @@ https://blackaddon.com/316/tvx.php?opcion=xtv27&c=47437
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=164262
 #EXTINF:-1 tvg-id="Win Sports HD" group-title="Deportes" tvg-name="Win Sports HD", Win Sports HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=85155
+#EXTINF:-1 tvg-id="The Tennis Channel Plus" group-title="Deportes" tvg-name="The Tennis Channel Plus", The Tennis Channel Plus  
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel HD" group-title="Deportes" tvg-name="Tennis Channel HD", Tennis Channel HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=55564
 #EXTINF:-1 tvg-id="Adrenalina Sports HD" group-title="Deportes" tvg-name="Adrenalina Sports HD", Adrenalina Sports HD  
@@ -128,3 +136,19 @@ https://blackaddon.com/316/tvx.php?opcion=xtv27&c=71832
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=49104
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="Deportes" tvg-name="UFC Fight Pass", UFC Fight Pass  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=58326
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantil" tvg-name="Cartoon Network", Cartoon Network  
+https://blackaddon.com/play/teleclub-318.php?c=la-cartoon-network-hd&f=.m3u8
+#EXTINF:-1 tvg-id="Disney XD" group-title="Infantil" tvg-name="Disney XD", Disney XD  
+https://blackaddon.com/play/teleclub-318.php?c=la-disney-xd&f=.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Infantil" tvg-name="Disney Channel", Disney Channel  
+https://blackaddon.com/play/cinedarktv-318.php?c=62|user-agent=hi
+#EXTINF:-1 tvg-id="Disney Junior" group-title="Infantil" tvg-name="Disney Junior", Disney Junior  
+https://blackaddon.com/play/cinedarktv-318.php?c=63|user-agent=hi
+#EXTINF:-1 tvg-id="Nat Geo Kids" group-title="Infantil" tvg-name="Nat Geo Kids", Nat Geo Kids  
+https://blackaddon.com/play/cinedarktv-318.php?c=66|user-agent=hi
+#EXTINF:-1 tvg-id="Boomerang" group-title="Infantil" tvg-name="Boomerang", Boomerang  
+https://blackaddon.com/play/cinedarktv-318.php?c=67|user-agent=hi
+#EXTINF:-1 tvg-id="BitMe" group-title="Infantil" tvg-name="BitMe", BitMe  
+https://blackaddon.com/play/teleclub-318.php?c=bitme&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" group-title="Infantil" tvg-name="Discovery Kids", Discovery Kids  
+https://blackaddon.com/play/teleclub-318.php?c=la-discovery-kids-hd&f=.m3u8
