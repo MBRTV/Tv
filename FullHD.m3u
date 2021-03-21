@@ -15,7 +15,7 @@ https://blackghost.live/316/tvx.php?opcion=xtv27&c=36458
 #EXTINF:-1 tvg-id="Animal Planet HD" group-title="Cultura" tvg-name="Animal Planet HD", Animal Planet HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=19507
 #EXTINF:-1 tvg-id="Discovery TLC" group-title="Variedades" tvg-name="Discovery TLC", Discovery TLC  
-hls://https://blackaddon.com/play/teleclub-316.php?c=la-discovery-tlc&f=.m3u8
+https://blackaddon.com/play/teleclub-316.php?c=la-discovery-tlc&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" group-title="Variedades" tvg-name="Discovery Home & Health HD", Discovery Home & Health HD  
 https://blackaddon.com/play/teleclub-316.php?c=la-discovery-home-health&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery World HD" group-title="Variedades" tvg-name="Discovery World HD", Discovery World HD  
