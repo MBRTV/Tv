@@ -1,17 +1,17 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="History HD" group-title="Cultura" tvg-name="History HD", History HD  
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=53074
+https://blackaddon.com/play/teleclub-318.php?c=la-history-channel-hd&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Cultura" tvg-name="Discovery HD", Discovery HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=9520
 #EXTINF:-1 tvg-id="Discovery Science HD" group-title="Cultura" tvg-name="Discovery Science HD", Discovery Science HD  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=36466
 #EXTINF:-1 tvg-id="Discovery Turbo HD" group-title="Cultura" tvg-name="Discovery Turbo HD", Discovery Turbo HD  
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=54283
+https://blackaddon.com/play/owly-318.php?c=327|User-Agent=nGfrjEYBKPb8chLQEZNDYwvhT7BinaAL2LJ5Ky4vJqk5bgu5RPg6mUjAkXVYB81Bdt3W385c8ipGq43N1ELS7fCXekz9ynaALPcBuemFniBNmdyLnH7iFGBdNYEW5XMAx6DNEJei2GviuKBnnxUYx8creamviAScXXE4pfxcaWxiXaEJQNiQ4jVPVXSwpPBxmanG8ZL2Y1BKPt3W385c8ipGq43NEpEx
 #EXTINF:-1 tvg-id="Discovery Theater HD" group-title="Cultura" tvg-name="Discovery Theater HD", Discovery Theater HD  
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=53073
+https://blackaddon.com/play/owly-318.php?c=325|User-Agent=nGfrjEYBKPb8chLQEZNDYwvhT7BinaAL2LJ5Ky4vJqk5bgu5RPg6mUjAkXVYB81Bdt3W385c8ipGq43N1ELS7fCXekz9ynaALPcBuemFniBNmdyLnH7iFGBdNYEW5XMAx6DNEJei2GviuKBnnxUYx8creamviAScXXE4pfxcaWxiXaEJQNiQ4jVPVXSwpPBxmanG8ZL2Y1BKPt3W385c8ipGq43NEpEx
 #EXTINF:-1 tvg-id="Discovery Investigation HD" group-title="Cultura" tvg-name="Discovery Investigation HD", Discovery Investigation HD  
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=36458
+https://blackaddon.com/play/owly-318.php?c=370|User-Agent=nGfrjEYBKPb8chLQEZNDYwvhT7BinaAL2LJ5Ky4vJqk5bgu5RPg6mUjAkXVYB81Bdt3W385c8ipGq43N1ELS7fCXekz9ynaALPcBuemFniBNmdyLnH7iFGBdNYEW5XMAx6DNEJei2GviuKBnnxUYx8creamviAScXXE4pfxcaWxiXaEJQNiQ4jVPVXSwpPBxmanG8ZL2Y1BKPt3W385c8ipGq43NEpEx
 #EXTINF:-1 tvg-id="Animal Planet HD" group-title="Cultura" tvg-name="Animal Planet HD", Animal Planet HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=19507
 #EXTINF:-1 tvg-id="Discovery TLC" group-title="Variedades" tvg-name="Discovery TLC", Discovery TLC  
@@ -98,6 +98,8 @@ https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56450
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56424
 #EXTINF:-1 tvg-id="Moviecenter Kids" group-title="Peliculas" tvg-name="Moviecenter Kids", Moviecenter Kids  
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56425
+#EXTINF:-1 tvg-id="SyFy " group-title="Peliculas" tvg-name="SyFy ", SyFy   
+https://blackaddon.com/play/owly-318.php?c=396|User-Agent=nGfrjEYBKPb8chLQEZNDYwvhT7BinaAL2LJ5Ky4vJqk5bgu5RPg6mUjAkXVYB81Bdt3W385c8ipGq43N1ELS7fCXekz9ynaALPcBuemFniBNmdyLnH7iFGBdNYEW5XMAx6DNEJei2GviuKBnnxUYx8creamviAScXXE4pfxcaWxiXaEJQNiQ4jVPVXSwpPBxmanG8ZL2Y1BKPt3W385c8ipGq43NEpEx
 #EXTINF:-1 tvg-id="ESPN 3 HD" group-title="Deportes" tvg-name="ESPN 3 HD", ESPN 3 HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21220
 #EXTINF:-1 tvg-id="FOX Sports 1 HD AR" group-title="Deportes" tvg-name="FOX Sports 1 HD AR", FOX Sports 1 HD AR  
