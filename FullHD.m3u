@@ -26,13 +26,13 @@ https://blackaddon.com/play/teleclub-316.php?c=la-ae-hd&f=.m3u8
 https://blackaddon.com/play/teleclub-316.php?c=la-e-entertainment-hd&f=.m3u8
 #EXTINF:-1 tvg-id="Fail Army" group-title="Variedades" tvg-name="Fail Army", Fail Army  
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 tvg-id="HBO 2 HD" group-title="Peliculas" tvg-name="HBO 2 HD", HBO 2 HD  
+#EXTINF:-1 tvg-id="HBO 2 " group-title="Peliculas" tvg-name="HBO 2 ", HBO 2   
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9875
 #EXTINF:-1 tvg-id="HBO Extreme" group-title="Peliculas" tvg-name="HBO Extreme", HBO Extreme  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=54164
 #EXTINF:-1 tvg-id="HBO Signature" group-title="Peliculas" tvg-name="HBO Signature", HBO Signature  
 https://blackaddon.com/play/teleclub-316.php?c=HBO-SIGNATURE-HD&f=.m3u8
-#EXTINF:-1 tvg-id="Star Hits HD" group-title="Peliculas" tvg-name="Star Hits HD", Star Hits HD  
+#EXTINF:-1 tvg-id="Star Hits " group-title="Peliculas" tvg-name="Star Hits ", Star Hits   
 https://blackaddon.com/play/teleclub-316.php?c=Fox-Movies-HD&f=.m3u8
 #EXTINF:-1 tvg-id="Star Life" group-title="Peliculas" tvg-name="Star Life", Star Life  
 https://blackaddon.com/play/teleclub-316.php?c=la-fox-life-hd&f=.m3u8
@@ -40,29 +40,29 @@ https://blackaddon.com/play/teleclub-316.php?c=la-fox-life-hd&f=.m3u8
 https://blackaddon.com/play/teleclub-316.php?c=la-fox-family-hd&f=.m3u8
 #EXTINF:-1 tvg-id="Star Comedy" group-title="Peliculas" tvg-name="Star Comedy", Star Comedy  
 https://blackaddon.com/play/teleclub-316.php?c=la-fox-comedy-hd&f=.m3u8
-#EXTINF:-1 tvg-id="TNT HD" group-title="Peliculas" tvg-name="TNT HD", TNT HD  
+#EXTINF:-1 tvg-id="TNT" group-title="Peliculas" tvg-name="TNT", TNT  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9495
-#EXTINF:-1 tvg-id="TNT Series HD" group-title="Peliculas" tvg-name="TNT Series HD", TNT Series HD  
+#EXTINF:-1 tvg-id="TNT Series " group-title="Peliculas" tvg-name="TNT Series ", TNT Series   
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=53054
-#EXTINF:-1 tvg-id="Sony HD" group-title="Peliculas" tvg-name="Sony HD", Sony HD  
+#EXTINF:-1 tvg-id="Sony" group-title="Peliculas" tvg-name="Sony", Sony  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9543
 #EXTINF:-1 tvg-id="Space" group-title="Peliculas" tvg-name="Space", Space  
 https://blackaddon.com/play/teleclub-316.php?c=la-space-hd&f=.m3u8
-#EXTINF:-1 tvg-id="Golden Plus HD" group-title="Peliculas" tvg-name="Golden Plus HD", Golden Plus HD  
+#EXTINF:-1 tvg-id="Golden Plus " group-title="Peliculas" tvg-name="Golden Plus ", Golden Plus   
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9496
-#EXTINF:-1 tvg-id="Golden Edge HD" group-title="Peliculas" tvg-name="Golden Edge HD", Golden Edge HD  
+#EXTINF:-1 tvg-id="Golden Edge" group-title="Peliculas" tvg-name="Golden Edge", Golden Edge  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9505
-#EXTINF:-1 tvg-id="Universal TV HD" group-title="Peliculas" tvg-name="Universal TV HD", Universal TV HD  
+#EXTINF:-1 tvg-id="Universal TV" group-title="Peliculas" tvg-name="Universal TV", Universal TV  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9507
 #EXTINF:-1 tvg-id="Cinemax" group-title="Peliculas" tvg-name="Cinemax", Cinemax  
 https://blackaddon.com/play/teleclub-316.php?c=la-cinemax&f=.m3u8
-#EXTINF:-1 tvg-id="Warner Tv HD" group-title="Peliculas" tvg-name="Warner Tv HD", Warner Tv HD  
+#EXTINF:-1 tvg-id="Warner Tv" group-title="Peliculas" tvg-name="Warner Tv", Warner Tv  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=53044
 #EXTINF:-1 tvg-id="LifeTime" group-title="Peliculas" tvg-name="LifeTime", LifeTime  
 https://blackaddon.com/play/teleclub-316.php?c=la-lifetime-hd&f=.m3u8
 #EXTINF:-1 tvg-id="Ultra Film" group-title="Peliculas" tvg-name="Ultra Film", Ultra Film  
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56697
-#EXTINF:-1 tvg-id="AXN HD" group-title="Peliculas" tvg-name="AXN HD", AXN HD  
+#EXTINF:-1 tvg-id="AXN" group-title="Peliculas" tvg-name="AXN", AXN  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=53047
 #EXTINF:-1 tvg-id="Cinema Disney Pixar" group-title="Peliculas" tvg-name="Cinema Disney Pixar", Cinema Disney Pixar  
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56444
@@ -102,37 +102,37 @@ https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56424
 https://blackaddon.com/316/tvx.php?opcion=xtv29&c=56425
 #EXTINF:-1 tvg-id="SyFy " group-title="Peliculas" tvg-name="SyFy ", SyFy   
 https://blackaddon.com/play/25-318.php?c=61976
-#EXTINF:-1 tvg-id="ESPN 3 HD" group-title="Deportes" tvg-name="ESPN 3 HD", ESPN 3 HD  
+#EXTINF:-1 tvg-id="ESPN 3" group-title="Deportes" tvg-name="ESPN 3", ESPN 3  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21220
-#EXTINF:-1 tvg-id="ESPN HD" group-title="Deportes" tvg-name="ESPN HD", ESPN HD  
+#EXTINF:-1 tvg-id="ESPN" group-title="Deportes" tvg-name="ESPN", ESPN  
 https://blackaddon.com/play/cinedarktv-318.php?c=131|user-agent=hi
-#EXTINF:-1 tvg-id="ESPN 2 HD" group-title="Deportes" tvg-name="ESPN 2 HD", ESPN 2 HD  
+#EXTINF:-1 tvg-id="ESPN 2" group-title="Deportes" tvg-name="ESPN 2", ESPN 2  
 https://blackaddon.com/play/cinedarktv-318.php?c=132|user-agent=hi
-#EXTINF:-1 tvg-id="FOX Sports 1 HD AR" group-title="Deportes" tvg-name="FOX Sports 1 HD AR", FOX Sports 1 HD AR  
+#EXTINF:-1 tvg-id="FOX Sports 1" group-title="Deportes" tvg-name="FOX Sports 1", FOX Sports 1  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21221
-#EXTINF:-1 tvg-id="FOX Sports 2 HD AR" group-title="Deportes" tvg-name="FOX Sports 2 HD AR", FOX Sports 2 HD AR  
+#EXTINF:-1 tvg-id="FOX Sports 2" group-title="Deportes" tvg-name="FOX Sports 2", FOX Sports 2  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21231
-#EXTINF:-1 tvg-id="FOX Sports 3 HD AR" group-title="Deportes" tvg-name="FOX Sports 3 HD AR", FOX Sports 3 HD AR  
+#EXTINF:-1 tvg-id="FOX Sports 3" group-title="Deportes" tvg-name="FOX Sports 3", FOX Sports 3  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=21232
-#EXTINF:-1 tvg-id="FOX Deportes HD" group-title="Deportes" tvg-name="FOX Deportes HD", FOX Deportes HD  
+#EXTINF:-1 tvg-id="FOX Deportes" group-title="Deportes" tvg-name="FOX Deportes", FOX Deportes  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=36396
-#EXTINF:-1 tvg-id="FOX Sport Premium HD" group-title="Deportes" tvg-name="FOX Sport Premium HD", FOX Sport Premium HD  
+#EXTINF:-1 tvg-id="FOX Sport Premium" group-title="Deportes" tvg-name="FOX Sport Premium", FOX Sport Premium  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=158453
-#EXTINF:-1 tvg-id="Euro Sports 1 HD" group-title="Deportes" tvg-name="Euro Sports 1 HD", Euro Sports 1 HD  
+#EXTINF:-1 tvg-id="Euro Sports 1" group-title="Deportes" tvg-name="Euro Sports 1", Euro Sports 1  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=47435
-#EXTINF:-1 tvg-id="Euro Sports 2 HD" group-title="Deportes" tvg-name="Euro Sports 2 HD", Euro Sports 2 HD  
+#EXTINF:-1 tvg-id="Euro Sports 2" group-title="Deportes" tvg-name="Euro Sports 2", Euro Sports 2  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=47437
-#EXTINF:-1 tvg-id="Claro Sport HD" group-title="Deportes" tvg-name="Claro Sport HD", Claro Sport HD  
+#EXTINF:-1 tvg-id="Claro Sport" group-title="Deportes" tvg-name="Claro Sport", Claro Sport  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=164262
-#EXTINF:-1 tvg-id="Win Sports HD" group-title="Deportes" tvg-name="Win Sports HD", Win Sports HD  
+#EXTINF:-1 tvg-id="Win Sports" group-title="Deportes" tvg-name="Win Sports", Win Sports  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=85155
 #EXTINF:-1 tvg-id="The Tennis Channel Plus" group-title="Deportes" tvg-name="The Tennis Channel Plus", The Tennis Channel Plus  
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel HD" group-title="Deportes" tvg-name="Tennis Channel HD", Tennis Channel HD  
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="Deportes" tvg-name="Tennis Channel", Tennis Channel  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=55564
-#EXTINF:-1 tvg-id="Adrenalina Sports HD" group-title="Deportes" tvg-name="Adrenalina Sports HD", Adrenalina Sports HD  
+#EXTINF:-1 tvg-id="Adrenalina Sports" group-title="Deportes" tvg-name="Adrenalina Sports", Adrenalina Sports  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=71832
-#EXTINF:-1 tvg-id="Sky Sports F1 HD" group-title="Deportes" tvg-name="Sky Sports F1 HD", Sky Sports F1 HD  
+#EXTINF:-1 tvg-id="Sky Sports F1" group-title="Deportes" tvg-name="Sky Sports F1", Sky Sports F1  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=49104
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="Deportes" tvg-name="UFC Fight Pass", UFC Fight Pass  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=58326
