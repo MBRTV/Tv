@@ -1,24 +1,24 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="History HD" group-title="Cultura" tvg-name="History HD", History HD  
+#EXTINF:-1 tvg-id="History" group-title="Cultura" tvg-name="History", History  
 https://blackaddon.com/play/teleclub-318.php?c=la-history-channel-hd&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery HD" group-title="Cultura" tvg-name="Discovery HD", Discovery HD  
-https://blackghost.live/316/tvx.php?opcion=xtv27&c=9520
-#EXTINF:-1 tvg-id="Discovery Science HD" group-title="Cultura" tvg-name="Discovery Science HD", Discovery Science HD  
+#EXTINF:-1 tvg-id="Discovery" group-title="Cultura" tvg-name="Discovery", Discovery  
+https://blackaddon.com/play/tvghd-318.php?id=discovery-channel-en-vivo&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" group-title="Cultura" tvg-name="Discovery Science", Discovery Science  
 https://blackaddon.com/play/lookplay-318.php?name=discovery_science&file=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-id="Discovery Turbo HD" group-title="Cultura" tvg-name="Discovery Turbo HD", Discovery Turbo HD  
+#EXTINF:-1 tvg-id="Discovery Turbo" group-title="Cultura" tvg-name="Discovery Turbo", Discovery Turbo  
 https://blackaddon.com/play/lookplay-318.php?name=discovery_turbo&file=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
-#EXTINF:-1 tvg-id="Discovery Theater HD" group-title="Cultura" tvg-name="Discovery Theater HD", Discovery Theater HD  
+#EXTINF:-1 tvg-id="Discovery Theater" group-title="Cultura" tvg-name="Discovery Theater", Discovery Theater  
 https://blackaddon.com/play/lookplay-318.php?name=discovery_theater&file=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
 #EXTINF:-1 tvg-id="Discovery Investigation" group-title="Cultura" tvg-name="Discovery Investigation", Discovery Investigation  
 https://blackaddon.com/play/tvghd-318.php?id=id-investigation-en-vivo&f=.m3u8
-#EXTINF:-1 tvg-id="Animal Planet HD" group-title="Cultura" tvg-name="Animal Planet HD", Animal Planet HD  
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Cultura" tvg-name="Animal Planet", Animal Planet  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=19507
 #EXTINF:-1 tvg-id="Discovery TLC" group-title="Variedades" tvg-name="Discovery TLC", Discovery TLC  
 https://blackaddon.com/play/teleclub-316.php?c=la-discovery-tlc&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health HD" group-title="Variedades" tvg-name="Discovery Home & Health HD", Discovery Home & Health HD  
+#EXTINF:-1 tvg-id="Discovery Home & Health" group-title="Variedades" tvg-name="Discovery Home & Health", Discovery Home & Health  
 https://blackaddon.com/play/teleclub-316.php?c=la-discovery-home-health&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery World HD" group-title="Variedades" tvg-name="Discovery World HD", Discovery World HD  
+#EXTINF:-1 tvg-id="Discovery World" group-title="Variedades" tvg-name="Discovery World", Discovery World  
 https://blackghost.live/316/tvx.php?opcion=xtv27&c=9516
 #EXTINF:-1 tvg-id="A&E" group-title="Variedades" tvg-name="A&E", A&E  
 https://blackaddon.com/play/teleclub-316.php?c=la-ae-hd&f=.m3u8
@@ -28,7 +28,7 @@ https://blackaddon.com/play/teleclub-316.php?c=la-e-entertainment-hd&f=.m3u8
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-id="HBO 2 HD" group-title="Peliculas" tvg-name="HBO 2 HD", HBO 2 HD  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=9875
-#EXTINF:-1 tvg-id="HBO Extreme HD" group-title="Peliculas" tvg-name="HBO Extreme HD", HBO Extreme HD  
+#EXTINF:-1 tvg-id="HBO Extreme" group-title="Peliculas" tvg-name="HBO Extreme", HBO Extreme  
 https://blackaddon.com/316/tvx.php?opcion=xtv27&c=54164
 #EXTINF:-1 tvg-id="HBO Signature" group-title="Peliculas" tvg-name="HBO Signature", HBO Signature  
 https://blackaddon.com/play/teleclub-316.php?c=HBO-SIGNATURE-HD&f=.m3u8
