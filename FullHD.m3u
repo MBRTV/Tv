@@ -1,6 +1,8 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="FM TV 1" group-title="Peliculas" tvg-name="FM TV 1", FM TV 1  
-https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="WOW TV" group-title="Peliculas" tvg-name="WOW TV", WOW TV  
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV AGRO" group-title="Cultura" tvg-name="TV AGRO", TV AGRO  
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
