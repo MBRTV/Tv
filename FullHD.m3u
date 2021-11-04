@@ -1,8 +1,7 @@
-#EXTM3U 
-
-#EXTINF:-1 tvg-id="FM TV 1" group-title="Peliculas" tvg-name="FM TV 1", FM TV 1  
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-id="WOW TV" group-title="Peliculas" tvg-name="WOW TV", WOW TV  
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV AGRO" group-title="Cultura" tvg-name="TV AGRO", TV AGRO  
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="• MUNDO Y CULTURA",MyC - ANIMAL PLANET
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3247
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY  HOME & HEALTH
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3083
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC - DISCOVERY CHANNEL" tvg-logo="http://www.mediafire.com/convkey/c688/05s7pcifvp81gbbzg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY CHANNEL
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3251
